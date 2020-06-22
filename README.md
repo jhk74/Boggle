@@ -1,0 +1,2 @@
+# Boggle
+Boggle game solver
